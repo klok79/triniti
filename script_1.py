@@ -1,1 +1,1 @@
-qwe
+print('Hello2')
